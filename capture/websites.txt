@@ -1,0 +1,5 @@
+http://www.yahoo.co.jp
+https://www.google.com
+http://www.chubu.ac.jp
+https://jr-central.co.jp/
+https://www.city.kasugai.lg.jp/
